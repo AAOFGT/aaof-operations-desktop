@@ -1,0 +1,9 @@
+{
+  "channel": "unsigned-staff-test",
+  "platform": "windows-x64",
+  "packageType": "portable-exe",
+  "version": "0.1.0-test.1",
+  "sourceRevision": "1bb05c139308799380280fe8464f31eed0bdb2ec",
+  "authenticodeStatus": "NotSigned",
+  "sha256": "6eaef3416ef2cbf8ab7847b52687a49f36019d0434e16bb0396a6c53c4cd4554"
+}
